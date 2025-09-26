@@ -72,14 +72,27 @@ ___
 
 ## Installation 
 
+No installation is required
+
 ## Usage 
+
+This is for homework 1 of our multi-authoring course.
 
 ## Contributing 
 
-## History 
+1. Want to use this template? Fork it!
+2. Clone the repo and remember to use branches.
+3. Make any adjustments you would like.
+4. Push to the main branch.
+5. Submit a pull request and wait for it to be merged.
+6. Congratulations! Your changes will now be visible in your forked version of the repo.
 
 ## Credits
 
+- Crystal Underhill
+- Storm MacAinsh
+- Valentina Rengifo
+
 ## License 
 
-An MIT License was used
+An MIT License was used; see the license file for more detailed information.
