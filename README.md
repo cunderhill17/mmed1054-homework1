@@ -31,9 +31,38 @@ Hi! My name’s Crystal.
 
 ___
 
-## STORM ADD YOUR CONTENT HERE
+## STORM
 
+![Black lab and Jack Russell Terrier](images/kobi_dog.jpg)
 
+Hello! My name is Storm, and I am 18 years old.
+
+I am from *London, Ontario*, but I have previously lived in *Waterloo, Ontario*, and in *Patuanak, Saskatchewan*.
+
+I have a dog named Kobi; he is 12 years old and a mix between a Black Lab and a Jack Russell Terrier.
+
+## My Hobbies
+
+The majority of my time goes into: 
+
+**Art**
+- Sketching
+- Colouring with Prismacolours
+- Adobe Illustrator
+
+**Video Games**
+- Valorant
+- Apex Legends
+- Harvest Moon series
+
+In high school, I had the opportunity to participate in an animation competition. Although my team did not win, I learned many valuable skills from that experience. 
+
+My favourite anime series and movies are:
+
+- Black Clover
+- Haikyu!!
+- Your Name
+- I Want to Eat Your Pancreas
 ___
 
 ## VAL ADD YOUR CONTENT HERE
