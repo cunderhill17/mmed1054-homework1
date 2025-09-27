@@ -1,6 +1,6 @@
 # Multimedia Authoring Assignment One: NEED GROUP NAME
 
-## About Me
+## Crystal's About Me
 
 ![alt text](images/trafalgar_square.jpg "Crystal at Trafalgar Square")
 
@@ -12,7 +12,7 @@ Hi! My name’s Crystal.
 
 ## My Hobbies
 
-&nbsp;&nbsp;I spend most of my time: 
+### &nbsp;&nbsp;I spend most of my time: 
 
 * Watching movies or television 
 * Writing 
@@ -21,7 +21,7 @@ Hi! My name’s Crystal.
 
 &nbsp;&nbsp;I am currently developing a mobile app for writers which aims to better organize the writing process for those who like to write on the go.
 
-&nbsp;&nbsp;My Favourite Television and Movie Genres Are: 
+### &nbsp;&nbsp;My Favourite Television and Movie Genres Are: 
 
 * Stand-Up Comedy
 * Rom-Coms
@@ -72,11 +72,11 @@ ___
 
 ## Installation 
 
-No installation is required
+No installation is required.
 
 ## Usage 
 
-This is for homework 1 of our multi-authoring course.
+This is for homework 1 of our multimedia-authoring course.
 
 ## Contributing 
 
