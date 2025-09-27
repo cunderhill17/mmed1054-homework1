@@ -31,7 +31,7 @@ Hi! My name’s Crystal.
 
 ___
 
-## STORM
+## Storm's About Me
 
 ![Black lab and Jack Russell Terrier](images/kobi_dog.jpg)
 
