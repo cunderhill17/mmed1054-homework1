@@ -2,7 +2,7 @@
 
 ## Crystal's About Me
 
-![alt text](images/trafalgar_square.jpg "Crystal at Trafalgar Square")
+![Crystal at Trafalgar Square](images/trafalgar_square.jpg "Crystal at Trafalgar Square")
 
 Hi! My name’s Crystal. 
 
@@ -65,8 +65,22 @@ My favourite anime series and movies are:
 - I Want to Eat Your Pancreas
 ___
 
-## VAL ADD YOUR CONTENT HERE
+## Val's About Me
 
+! [Beagle and yellow dog siting beside a couch](images/leeloo_hope.JPG)
+
+Hey! My name is Valentina but i prefer to be called Val. I'm 20 years old. I'm from Bogotá, Colombia and I recently moved to Canada to study. 
+
+My little babys that you see in the picture are Leeloo and Hope (Left to right). Leelo is 4 years old and Hope is 9 years old.
+
+## My Hobbies
+
+ - Volleball.
+ - Listening to music.
+ - Whatching either series or movies.
+ - Taking picture of everthing I eat or see that moves my heart.
+
+I'm a huge movie fan, one of my favorite movie genres are sci-fi, suspense and psicological thriller. 
 
 ___
 
