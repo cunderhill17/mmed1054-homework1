@@ -77,7 +77,7 @@ My little babys that you see in the picture are Leeloo and Hope (Left to right).
 
  - Volleball.
  - Listening to music.
- - Whatching either series or movies.
+ - Watching series or movies.
  - Taking picture of everthing I eat or see that moves my heart.
 
 I'm a huge movie fan, one of my favorite movie genres are sci-fi, suspense and psicological thriller. 
