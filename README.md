@@ -67,7 +67,7 @@ ___
 
 ## Val's About Me
 
-! [Beagle and yellow dog siting beside a couch](images/leeloo_hope.JPG)
+![Beagle and yellow dog siting beside a couch](images/leeloo_hope.JPG)
 
 Hey! My name is Valentina but i prefer to be called Val. I'm 20 years old. I'm from Bogotá, Colombia and I recently moved to Canada to study. 
 
