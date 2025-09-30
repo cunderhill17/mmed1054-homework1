@@ -1,4 +1,4 @@
-# Multimedia Authoring Assignment One: The Trinity: Crytal, Storm, & Val.
+# Multimedia Authoring Assignment One: The Trinity: Crystal, Storm, & Val.
 
 ## Crystal's About Me
 
