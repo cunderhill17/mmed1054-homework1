@@ -1,4 +1,4 @@
-# Multimedia Authoring Assignment One: NEED GROUP NAME
+# Multimedia Authoring Assignment One: The Trinit: Crytal, Storm, & Val.
 
 ## Crystal's About Me
 
